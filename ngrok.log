@@ -1,0 +1,10 @@
+t=2023-02-22T06:30:43+0000 lvl=info msg="no configuration paths supplied"
+t=2023-02-22T06:30:43+0000 lvl=info msg="using configuration at default config path" path=/home/ubuntu/snap/ngrok/89/.config/ngrok/ngrok.yml
+t=2023-02-22T06:30:43+0000 lvl=info msg="open config file" path=/home/ubuntu/snap/ngrok/89/.config/ngrok/ngrok.yml err=nil
+t=2023-02-22T06:30:43+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040
+t=2023-02-22T06:30:44+0000 lvl=info msg="update available" obj=updater
+t=2023-02-22T06:30:44+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-02-22T06:30:44+0000 lvl=info msg="client session established" obj=csess id=8783430f6e5c
+t=2023-02-22T06:30:44+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:80 url=https://788f-189-172-64-148.ngrok.io
+t=2023-02-22T06:34:32+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+t=2023-02-22T06:34:32+0000 lvl=info msg="session closing" obj=tunnels.session err=nil
